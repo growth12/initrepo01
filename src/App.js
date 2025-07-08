@@ -16,8 +16,7 @@ function App() {
           rel="noopener noreferrer"
         >
 <<<<<<< HEAD
-          Learn React
-          Learn React Start
+          Learn React start end init team1
 =======
           Learn React start end
 >>>>>>> ee0d713 ("commit 테스트2")
