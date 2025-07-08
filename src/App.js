@@ -15,12 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-<<<<<<< HEAD
-          Learn React
-          Learn React Start
-=======
-          Learn React start end
->>>>>>> ee0d713 ("commit 테스트2")
+          Learn React start end init team2
         </a>
       </header>
     </div>
